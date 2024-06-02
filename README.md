@@ -1,5 +1,5 @@
-# Deepfake-Detection-CNN
-## Deepfake Detection using CNN ##
+# Deepfake-Detection-CNN #
+** Deepfake Detection using CNN **
 
 We used CNN, Tranfer Learning, Data Augmentation for model training, GAN for fake image generating
 
